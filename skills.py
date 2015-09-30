@@ -7,7 +7,6 @@ function is now failing its tests.
 Edit the function body until you have a solution and the test passes, and then
 move on to the next function.
 
-This assessment is DUE TO YOUR ADVISOR BY SUNDAY EVENING.
 """
 
 
